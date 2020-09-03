@@ -1,1 +1,1 @@
-# cripnew
+# Scriptnews
